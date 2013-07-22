@@ -1,0 +1,8 @@
+gedit .hg/hgrc
+
+
+hg add
+
+hg commit -m "first commit"
+
+hg push
