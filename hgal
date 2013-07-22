@@ -1,8 +1,10 @@
-gedit .hg/hgrc
+#cp -r /usr/bin/hg /tmp
+
+#gedit .hg/hgrc
 
 
-hg add
+/tmp/hg add
 
-hg commit -m "first commit"
+/tmp/hg commit -m "first commit"
 
-hg push
+/tmp/hg push
